@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Vikram Singh
 
 I'm a passionate data engineer and lifelong builder who loves untangling messy data and transforming it into meaningful systems. With over 4 years of experience across software development and data engineering, I've designed and scaled real-time pipelines, automated complex ETL workflows, and delivered analytics platforms that help people make better decisions.
