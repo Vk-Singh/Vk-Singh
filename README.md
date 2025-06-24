@@ -17,7 +17,7 @@ When I’m not coding, you’ll find me mentoring, nerding out over global econo
 
 **Languages**: Python · SQL  
 **Data Engineering**: Apache Kafka · Airflow · dbt · Spark · BigQuery · MySQL · PostgreSQL  
-**DevOps & Monitoring**: Docker · Prometheus · Grafana · GitHub Actions · Superset · DVC
+**DevOps & Monitoring**: AWS. Docker · Prometheus · Grafana · GitHub Actions · Superset · DVC
 **Practices**: ETL/ELT · Data Modeling · Real-Time Streaming · CI/CD · Operational Analytics  
 
 ---
